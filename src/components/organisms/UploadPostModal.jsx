@@ -1,9 +1,8 @@
 import { useState, useRef } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { toast } from 'react-toastify'
-import ApperIcon from './ApperIcon'
-import * as postService from '../services/api/postService'
-
+import ApperIcon from '../ApperIcon'
+import * as postService from '../../services/api/postService'
 const MainFeature = ({ isOpen, onClose, onUpload }) => {
   const [selectedFile, setSelectedFile] = useState(null)
   const [preview, setPreview] = useState(null)
