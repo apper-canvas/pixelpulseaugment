@@ -1,12 +1,11 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { toast } from 'react-toastify'
-import MainFeature from '../components/MainFeature'
+import MainFeature from '../components/organisms/UploadPostModal'
 import ApperIcon from '../components/ApperIcon'
 import * as postService from '../services/api/postService'
 import * as commentService from '../services/api/commentService'
 import * as savedPostService from '../services/api/savedPostService'
-
 const Home = () => {
   const [posts, setPosts] = useState([])
   const [loading, setLoading] = useState(false)
