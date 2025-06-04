@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "postId": "1",
+    "text": "Absolutely stunning view! 😍",
+    "timestamp": "2024-01-15T15:00:00Z",
+    "authorName": "sarah_adventures",
+    "authorAvatar": "https://images.unsplash.com/photo-1494790108755-2616b612b8c5?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "2",
+    "postId": "1",
+    "text": "This makes me want to go hiking right now!",
+    "timestamp": "2024-01-15T15:15:00Z",
+    "authorName": "mountain_lover",
+    "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "3",
+    "postId": "1",
+    "text": "Where is this? Adding to my bucket list! 📍",
+    "timestamp": "2024-01-15T16:30:00Z",
+    "authorName": "travel_bug_23",
+    "authorAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "4",
+    "postId": "2",
+    "text": "Coffee goals! ☕ What's your favorite blend?",
+    "timestamp": "2024-01-15T09:45:00Z",
+    "authorName": "coffee_addict",
+    "authorAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "5",
+    "postId": "2",
+    "text": "This is such a mood! Perfect morning vibes",
+    "timestamp": "2024-01-15T10:20:00Z",
+    "authorName": "city_dreamer",
+    "authorAvatar": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "6",
+    "postId": "3",
+    "text": "Nature therapy is the best therapy! 🌿",
+    "timestamp": "2024-01-14T17:00:00Z",
+    "authorName": "forest_wanderer",
+    "authorAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "7",
+    "postId": "3",
+    "text": "I can almost smell the fresh pine through the screen",
+    "timestamp": "2024-01-14T17:30:00Z",
+    "authorName": "nature_lover",
+    "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "8",
+    "postId": "4",
+    "text": "Golden hour magic! ✨ The lighting is perfection",
+    "timestamp": "2024-01-14T19:45:00Z",
+    "authorName": "photo_enthusiast",
+    "authorAvatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "9",
+    "postId": "4",
+    "text": "This is why I love sunset photography",
+    "timestamp": "2024-01-14T20:00:00Z",
+    "authorName": "sunset_chaser",
+    "authorAvatar": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "10",
+    "postId": "6",
+    "text": "Beach therapy session! 🏖️ Nothing beats ocean vibes",
+    "timestamp": "2024-01-13T15:30:00Z",
+    "authorName": "beach_bum",
+    "authorAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "11",
+    "postId": "6",
+    "text": "This makes me miss summer so much!",
+    "timestamp": "2024-01-13T16:00:00Z",
+    "authorName": "summer_dreams",
+    "authorAvatar": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "12",
+    "postId": "8",
+    "text": "Gardening is so therapeutic! What are you growing?",
+    "timestamp": "2024-01-12T14:45:00Z",
+    "authorName": "green_thumb",
+    "authorAvatar": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "13",
+    "postId": "12",
+    "text": "Morning yoga is the best way to start the day! 🧘‍♀️",
+    "timestamp": "2024-01-10T08:00:00Z",
+    "authorName": "wellness_warrior",
+    "authorAvatar": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=50&h=50&fit=crop&crop=face"
+  },
+  {
+    "id": "14",
+    "postId": "12",
+    "text": "Inspiring! I need to get back into my practice",
+    "timestamp": "2024-01-10T08:30:00Z",
+    "authorName": "mindful_soul",
+    "authorAvatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=50&h=50&fit=crop&crop=face"
+  }
+]
